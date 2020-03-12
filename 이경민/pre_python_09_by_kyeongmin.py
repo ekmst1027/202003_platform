@@ -7,6 +7,11 @@
 21~40 : D
 0~20 : F
 """
+
+# 풀이 의도
+# python에서는 switch-case문이 없기 때문에 비슷하게 사용할 수 있는 dictionary 자료구조를 사용
+# 0~100점의 점수를 10으로 나눈 뒤 소수점은 다 올려서 학점으로 계산
+
 import math
 
 score = int(input("점수를 입력하세요 : "))

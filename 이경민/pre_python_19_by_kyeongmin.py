@@ -2,6 +2,9 @@
 a = ['alpha', 'bravo', 'charlie', 'delta', 'echo', 'foxtrot', 'golf', 'hotel', 'india']
  """
 
+# 풀이 의도
+# list comprehension을 사용하여 단어의 길이가 7인 단어만 출력
+
 a = ['alpha', 'bravo', 'charlie', 'delta',
      'echo', 'foxtrot', 'golf', 'hotel', 'india']
 

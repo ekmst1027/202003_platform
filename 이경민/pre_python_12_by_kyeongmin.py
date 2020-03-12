@@ -3,6 +3,9 @@ ABCD 순으로 정렬하시오.
 
 namelist = ['Mary', 'Sams', 'Aimy', 'Tom', 'Michale', 'Bob', 'Kelly']"""
 
+# 풀이 의도
+# sort 함수를 사용해 오름차순으로 정렬한 뒤 출력
+
 namelist = ['Mary', 'Sams', 'Aimy', 'Tom', 'Michale', 'Bob', 'Kelly']
 namelist.sort()
 print(namelist)

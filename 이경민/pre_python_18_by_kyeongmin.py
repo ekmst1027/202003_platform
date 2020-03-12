@@ -7,6 +7,9 @@ file = ['exit.py',hi.py','playdata.hwp',intro.jpg']
 file = ['exit',hi','playdata',intro']
 """
 
+# 풀이 의도
+# 파일 리스트를 구두점(.)을 기준으로 구두점 앞의 단어만 새로운 리스트에 추가하여 출력
+
 file_list = ['exit.py', 'hi.py', 'playdata.hwp', 'intro.jpg']
 new_file_list = []
 
