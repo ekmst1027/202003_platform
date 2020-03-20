@@ -25,7 +25,6 @@ def greedy():
     coin.sort(reverse=True)
     change = []
     for i in range(len(coin)):
-        print(coin[i])
         change.append(price // coin[i])
         price = price % coin[i]
 
